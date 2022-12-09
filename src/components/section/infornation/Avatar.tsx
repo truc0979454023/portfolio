@@ -168,7 +168,12 @@ const Avatar = (props: Props) => {
     <Container>
       <Content>
         <Image>
-          <img src={avatar} alt="avatar" />
+          <img
+            src={
+              "https://res.cloudinary.com/nomame/image/upload/v1632758944/nextjs/user_nez06k.png"
+            }
+            alt="avatar"
+          />
           <Contact id="contact">
             <h3>{t("name")}</h3>
             <p>{t("major")}</p>
