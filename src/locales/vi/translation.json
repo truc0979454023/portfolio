@@ -1,0 +1,33 @@
+{
+  "intro": {
+    "text": "Xin chào, tôi là",
+    "name": "Vương Minh Trực",
+    "major": "Lập trình viên Web",
+    "description": "Tôi không viết lên chương trình, tôi viết lên cuộc sống của mình",
+    "button": "Cuộn tới tôi",
+    "textButton": "Tuyển dụng"
+  },
+  "skill": {
+    "CV": {
+      "title": "Kỹ năng của tôi",
+      "button": "Tải CV"
+    }
+  },
+  "project": {
+    "title": "Dự án của tôi",
+    "button": "Xem thêm"
+  },
+  "about": {
+    "connect": {
+      "title": "Thông tin về tôi",
+      "text": "Designing with passion for Problem Solving",
+      "description": "Tôi là sinh viên chuyên ngành công nghệ thông tin, trường đại học Giao Thông Vận Tải TP.HCM. Mình là một người ham học hỏi và khám phá cái mới. Hiện tại tôi đang là lập trình viên frontend với ngôn ngữ Javascript. Định hướng tương lai của tôtlà làm việc với các thư viện của javascript cho frontend, backend cũng như mobile."
+    },
+    "email": {
+      "title": "Làm gì tiếp theo?",
+      "text": "Làm việc cùng nhau!",
+      "description": "Cảm ơn đã dành thời gian xem hồ sơ của tôi, nếu thấy những gì tôi có phù hợp với yêu cầu của công việc hãy liên hệ với tôi. Rất mong có cơ hội được gắn bó với công ty. Trân trọng!",
+      "button": "Gửi email cho tôi"
+    }
+  }
+}

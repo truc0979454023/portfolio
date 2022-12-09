@@ -1,0 +1,33 @@
+{
+  "intro": {
+    "text": "Hello, I'm",
+    "name": "Vuong Minh Truc",
+    "major": "Web developer",
+    "description": "I don't write program, I write my life",
+    "button": "Scroll for me",
+    "textButton": "Hide me"
+  },
+  "skill": {
+    "CV": {
+      "title": "My Skillset",
+      "button": "Get CV"
+    }
+  },
+  "project": {
+    "title": "My Projects",
+    "button": "Read more"
+  },
+  "about": {
+    "connect": {
+      "title": "About me",
+      "text": "Develop with passion for Problem Solving",
+      "description": "I am a student majoring in information technology, University of Transport, Ho Chi Minh City. I am a person who is eager to learn and discover new things. Currently, I am a front end developer with Javascript language. My future direction is to work with javascript libraries for frontend, backend as well as mobile."
+    },
+    "email": {
+      "title": "What's next?",
+      "text": "Let's Work Together!",
+      "description": "Thank you for taking the time to view my profile, if you see what I have that matches your requirements please contact me. Looking forward to the opportunity to work with you. Best regards!",
+      "button": "Write me an email"
+    }
+  }
+}
