@@ -1,9 +1,7 @@
-import React from "react";
+import FacebookIcon from "@mui/icons-material/Facebook";
+import GitHubIcon from "@mui/icons-material/GitHub";
 import { useTranslation } from "react-i18next";
 import styled from "styled-components";
-import avatar from "../../../assets/images/avatar.jpg";
-import GitHubIcon from "@mui/icons-material/GitHub";
-import FacebookIcon from "@mui/icons-material/Facebook";
 
 type Props = {};
 
