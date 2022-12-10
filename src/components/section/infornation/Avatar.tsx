@@ -168,7 +168,7 @@ const Avatar = (props: Props) => {
         <Image>
           <img
             src={
-              "https://res.cloudinary.com/nomame/image/upload/v1632758944/nextjs/user_nez06k.png"
+              "https://res.cloudinary.com/nomame/image/upload/v1670675799/fortfolio/IMG_20221210_193159_wktpxr.jpg"
             }
             alt="avatar"
           />
