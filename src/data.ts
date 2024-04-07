@@ -3,7 +3,6 @@ export const knowledgeData = [
     title: "Languages",
     skills: ["Javascript", "Typescript", "HTML", "CSS"],
   },
-
   {
     title: "Frameworkes/Libraries ",
     skills: [

@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import styled from "styled-components";
 import pdfimage from "../../../assets/images/pdf.png";
-import cv from "../../../assets/vuongminhtruc_cv.pdf";
+import cv from "../../../assets/FRONTEND - CV - VUONG MINH TRUC.pdf";
 import Button from "../../common/Button";
 import ViewPDF from "./ViewPDF";
 import { skillData } from "../../../data";
@@ -83,7 +83,7 @@ const CV = (props: Props) => {
         const fileURL = window.URL.createObjectURL(blob);
         let alink = document.createElement("a");
         alink.href = fileURL;
-        alink.download = "vuongminhtruc_cv.pdf";
+        alink.download = "FRONTEND - CV - VUONG MINH TRUC.pdf";
         alink.click();
       });
     });

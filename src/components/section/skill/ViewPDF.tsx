@@ -1,7 +1,7 @@
 import { usePdf } from "@mikecousins/react-pdf";
 import { useRef, useState } from "react";
 import styled from "styled-components";
-import cv from "../../../assets/vuongminhtruc_cv.pdf";
+import cv from "../../../assets/FRONTEND - CV - VUONG MINH TRUC.pdf";
 
 type Props = {
   onClose: () => void;

@@ -1,6 +1,7 @@
 import styled from "styled-components";
 import BackToTop from "./BackToTop";
 import Theme from "./Theme";
+import ChangeLanguageButton from "./ChangeLanguageButton";
 
 type Props = {};
 
@@ -19,7 +20,7 @@ const Container = styled.div`
 const Corn = (props: Props) => {
   return (
     <Container>
-      {/* <ChangeLanguageButton /> */}
+      <ChangeLanguageButton />
       <Theme />
       <BackToTop />
     </Container>
